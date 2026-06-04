@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Gemini](https://img.shields.io/badge/Gemini-API-orange)
+![LLM](https://img.shields.io/badge/LLM-Powered-green)
+![License](https://img.shields.io/badge/License-MIT-purple)
+
 # 🚀 Career Copilot Lite
 
 AI-powered Career Assistant built using Gemini API, Streamlit, and Python.
